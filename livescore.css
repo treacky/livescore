@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(255, 0, 0);
+    margin: 0;
+    padding: 0;
+    }
+
+.btn{
+    position: absolute;
+    padding: 25px;
+    top: 60%;
+    left: 44%;
+    transform translate(-50, -50);
+    transition: .4s;
+
+}
+
